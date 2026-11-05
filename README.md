@@ -1,8 +1,5 @@
 ## Paula Boubel
 
-Astrophysics PhD and software developer at IPAC/Caltech, building data processing
-pipelines for the NEO Surveyor mission. Python and Rust.
-
 **Current work** — private, in the `IPAC-SW` org:
 - **NEOS-ingest**: NEO Surveyor's ingest subsystem: a Python package over a compiled
   Rust core (PyO3/maturin) converting spacecraft packets into FITS science products.
