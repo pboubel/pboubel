@@ -8,5 +8,3 @@
 - **TFPV**: Bayesian forward-modelling of Tully–Fisher peculiar velocities; the code
   behind my papers on the Hubble constant and the growth rate.
 - **dragonboat-sims**: does paddle synchronisation actually affect dragon boat velocity?
-
-Previously: CHIME (McGill) · ACCESS-NRI · Next Pathway
