@@ -1,16 +1,17 @@
-## Hi there 👋
+## Paula Boubel
 
-<!--
-**pboubel/pboubel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Astrophysics PhD and software developer at IPAC/Caltech, building data processing
+pipelines for the NEO Surveyor mission. Python and Rust.
 
-Here are some ideas to get you started:
+**Current work** — private, in the `IPAC-SW` org:
+- **NEOS-ingest** — NEO Surveyor's ingest subsystem: a Python package over a compiled
+  Rust core (PyO3/maturin) converting raw spacecraft downlink into FITS science products.
+- **neos-ops-daemon** — distributed Rust daemon orchestrating the survey data system's
+  processing pipelines and storage tiering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Public here**
+- **TFPV** — Bayesian forward-modelling of Tully–Fisher peculiar velocities; the code
+  behind my papers on the Hubble constant and large-scale motions.
+- **dragonboat-sims** — does paddle synchronisation actually affect dragon boat velocity?
+
+Previously: CHIME (McGill) · ACCESS-NRI · Next Pathway
